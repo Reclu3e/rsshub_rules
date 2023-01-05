@@ -20,7 +20,8 @@
 - lib/v2/infoq
   - infoq 规则
 - lib/v2/rss-trans
-  - 转换已有rss 添加Access-Control-Allow-Origin头
+  - 转换已有rss
+  - 添加Access-Control-Allow-Origin头
 - lib/v2/sec-wiki
   - news
     - https://www.sec-wiki.com/news
